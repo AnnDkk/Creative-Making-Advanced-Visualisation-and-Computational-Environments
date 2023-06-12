@@ -65,8 +65,8 @@ We carried out the initial model building in Blender. And decided to abstract th
 > For the interaction part, we first consider changing the circuit voltage through the human capacitance to send a signal to the unity recognition to sense the human touch and trigger the special effect.
 
 <div align=center>
-<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0826.JPG" width="500" height="300">             
-<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG675.png" width="500" height="300">
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0826.JPG" width="400" height="300">             
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG675.png" width="400" height="300">
 </div>
 
 </div>
