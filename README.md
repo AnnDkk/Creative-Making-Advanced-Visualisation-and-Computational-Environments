@@ -119,10 +119,38 @@ So finally we re-use the Makey Makey board to do this part of the interaction.
 
 
 # Achievement
+After finishing the production, we invited many students in the school to participate in the game process. I found that this kind of game through the natural interaction link of the human body not only expressed the power of touch, but also enhanced people's emotions and made them more immersed in the experience of touch in the process.
+
+
+</div>
+<div align=center>       
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0925.JPG" width="400" height="300">     
+ <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0899.JPG" width="500" height="300">
+  
+</div>
+</div>
+</div>
+</div>
+</div>
+<div align=center>       
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG679.png" width="525" height="300">     
+ <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG677%202.png" width="475" height="300">
+  
+</div>
+</div>
+
+
+
+> And most of the participants also said that it was very interesting to generate so many visual and auditory experiences through the simplest touch interaction between people! They also enjoy the process of recording their emotions.
 
 
 
 
+</div>
+</div>
+<div align=center>       
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG678.png" width="550" height="300">
+</div>
 
-
+</div>
 
