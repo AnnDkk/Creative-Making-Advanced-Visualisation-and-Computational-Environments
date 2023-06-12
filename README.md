@@ -33,14 +33,12 @@ We are extending from how to express the power of touch, hoping to give people a
 <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG669.png" width="400" height="300"> <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG670.png" width="400" height="300">
 </div>
 
-
-
-
 # Working Process & Coding
-
-
+> In the process of the overall production, we first carried out the division of labor production. Liao and me(Dong) were first responsible for building the overall model space and the movement and linking of the game environment in unity. Wang was first responsible for studying the circuit of the Arduino part. One week later, we conducted an integration study to deal with the problems of each part and the beautification of details, and connected the overall game.
 
 ## Modelling
+
+
 
 
 
