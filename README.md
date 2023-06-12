@@ -19,7 +19,10 @@ In this lesson, I learned about the significance of immersive environments for u
 
 
 # Concepts
-
+Touch is a universal language that conveys warmth and love to people. Many times people can't see the abstract emotion that this behavior brings. When I was imitating the gesture of using fingertips to say hello with my classmates, I suddenly had the inspiration of expressing touch.
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG668.png" width="400" height="200">
+</div>
 
 
 
