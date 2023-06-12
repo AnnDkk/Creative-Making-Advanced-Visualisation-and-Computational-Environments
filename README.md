@@ -97,15 +97,25 @@ So finally we re-use the Makey Makey board to do this part of the interaction.
 
 </div>
 <div align=center>
-<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0848.JPG" width="300" height="300">             
-<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG676.png" width="600" height="300">
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0848.JPG" width="250" height="250">             
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG676.png" width="550" height="250">
 </div>
 
+> In order to give users a better hearing experience, we also created drinks. Special sound effects and background music were designed for each touch.
 
+</div>
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_1018.JPG" width="350" height="250">             
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/03cd8373357ad29744f1f496f8486cd.png" width="550" height="250">
+</div>
 
+> Finally, we used the packaging carton to copy the record burner and placed the Arduino and other circuits in it.
 
-
-
+</div>
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0854.JPG" width="350" height="250">         
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0863.JPG" width="250" height="250">
+</div>
 
 
 # Achievement
