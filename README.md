@@ -66,7 +66,7 @@ We carried out the initial model building in Blender. And decided to abstract th
 
 <div align=center>
 <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0826.JPG" width="500" height="300">             
-<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG674.png" width="300" height="300">
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG675.png" width="500" height="300">
 </div>
 
 </div>
@@ -76,14 +76,30 @@ However, after a preliminary attempt, it was found that the scheme could not cha
 
 </div>
 
-# Challenges
+## Challenges
+We searched the tutorial and found that it is possible to increase the resistor value to 1M ohms to more accurately identify the voltage plug generated when conducting electricity through the human body. 
+</div>
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG674.png" width="300" height="300">
+</div>
 
+However, after testing, we found that we still need a more conductive medium to accurately detect the effect of voltage changes when people touch each other.
+So finally we re-use the Makey Makey board to do this part of the interaction.
 
-
-
+</div>
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0851.JPG" width="400" height="300">             
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0852.JPG" width="400" height="300">
+</div>
 
 ## Making
+> In order to make it more convenient for users to use the interactive port, I packaged it with tin foil and made the handle. It increases the contact area without affecting its conductivity. In addition to the main control port, each of these ports triggers a visual effect and an audio effect when linked through the human body.
 
+</div>
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0848.JPG" width="300" height="300">             
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG676.png" width="600" height="300">
+</div>
 
 
 
