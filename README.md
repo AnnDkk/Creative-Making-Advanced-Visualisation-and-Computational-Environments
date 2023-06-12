@@ -106,7 +106,7 @@ So finally we re-use the Makey Makey board to do this part of the interaction.
 </div>
 <div align=center>
 <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_1018.JPG" width="350" height="250">             
-<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/03cd8373357ad29744f1f496f8486cd.png" width="550" height="250">
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/03cd8373357ad29744f1f496f8486cd.png" width="450" height="250">
 </div>
 
 > Finally, we used the packaging carton to copy the record burner and placed the Arduino and other circuits in it.
@@ -124,8 +124,8 @@ After finishing the production, we invited many students in the school to partic
 
 </div>
 <div align=center>       
-<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0925.JPG" width="400" height="300">     
- <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0899.JPG" width="500" height="300">
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0925.JPG" width="350" height="250">     
+ <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0899.JPG" width="450" height="250">
   
 </div>
 </div>
@@ -133,8 +133,8 @@ After finishing the production, we invited many students in the school to partic
 </div>
 </div>
 <div align=center>       
-<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG679.png" width="525" height="300">     
- <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG677%202.png" width="475" height="300">
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG679.png" width="450" height="250">     
+ <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG677%202.png" width="350" height="250">
   
 </div>
 </div>
