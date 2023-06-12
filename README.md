@@ -24,8 +24,14 @@ Touch is a universal language that conveys warmth and love to people. Many times
 <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG668.png" width="400" height="200">
 </div>
 
+We are extending from how to express the power of touch, hoping to give people an immersive experience of the touch process from a multi-sensory perspective. Ultimately, we chose to use music and visual effects to enhance emotional expression. At the same time, we add more meaning to the form of interaction. We want to record the process of users touching each other through a record. It embodies abstract emotions and stories, and enhances the experience of the game through people's natural physical contact.
 
+</div> 
+</div> 
 
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG669.png" width="400" height="300"> <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG670.png" width="400" height="300">
+</div>
 
 
 
