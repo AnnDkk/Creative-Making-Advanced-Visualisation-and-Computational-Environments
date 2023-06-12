@@ -37,16 +37,49 @@ We are extending from how to express the power of touch, hoping to give people a
 > In the process of the overall production, we first carried out the division of labor production. Liao and me(Dong) were first responsible for building the overall model space and the movement and linking of the game environment in unity. Wang was first responsible for studying the circuit of the Arduino part. One week later, we conducted an integration study to deal with the problems of each part and the beautification of details, and connected the overall game.
 
 ## Modelling
+We carried out the initial model building in Blender. And decided to abstract the recording process into a tunnel space, as if the user in the three-dimensional space of the record touch interactive experience.
+</div> 
 
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_1035.JPG" width="200" height="200">             
+  <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_1036.JPG" width="200" height="200">
+</div>
 
-
-
+> Complete the entire game space in unity and re-create tiles and shaders for better presentation.
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/234728508a8e9c011460879fdd349be.png" width="300" height="200">             
+  <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/58b61ae56426da7adb9374c80a64b44.png" width="300" height="200">
+</div>
 
 ## Coding（Arduino & Unity）
+> We want unity to automatically turn the record player when it detects that a game has started. But since we're using a motor that can't change its speed, we slow the motor down by stopping every few seconds. The code is as follows: 
+
+</div> 
+
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG112528.png" width="500" height="300">             
+            
+  <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG673.png" width="300" height="300">
+</div>
+
+> For the interaction part, we first consider changing the circuit voltage through the human capacitance to send a signal to the unity recognition to sense the human touch and trigger the special effect.
+
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/IMG_0826.JPG" width="500" height="300">             
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/Image/WechatIMG674.png" width="300" height="300">
+</div>
+
+</div>
+
+</div>
+However, after a preliminary attempt, it was found that the scheme could not change the capacitance difference to make the Arduino signal through the human body touch each other. Only a single human contact circuit can signal.
+
+</div>
+
+# Challenges
 
 
 
-## Challenges
 
 
 ## Making
